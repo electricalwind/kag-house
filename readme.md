@@ -19,6 +19,7 @@ To use this project with maven:
 - mvn exec:java
 
 the produced csv file can be found in target/classes/
+
 To choose the destination folder of the result, modify the following part of the pom.xml file.
 
 ```xml
@@ -41,4 +42,4 @@ To choose the destination folder of the result, modify the following part of the
 ```
 
 * Uncomment the argument tag
-* Replace 'YourPath' by the path of the destination folder.
+* Replace 'YourPath' by the path of your destination folder.
