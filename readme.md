@@ -7,6 +7,8 @@ This repository is part of the kaggle competition:
 
 The code was produced during the "Weka data mining tutorial" that took place at APSEC'2016 at the university of Waikato, Hamilton, 6th December 2016.
 
+So far, it managed a score of 0.14258 using M5P algorithm.
+
 ## Library Used
 
 * Weka 3.9
